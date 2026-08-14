@@ -1,0 +1,8 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Local installs created by testing `npx skills add .` inside this repo
+.claude/
+.agents/
+.hermes/
