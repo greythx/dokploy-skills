@@ -1,6 +1,6 @@
 ---
 name: dokploy-cli
-description: Operate a Dokploy server with the official Dokploy CLI (`dokploy`): apps, compose stacks, databases, deployments, domains, users, and server/admin. Trigger whenever the user mentions Dokploy or their Dokploy panel, including deploy requests that name Dokploy ("deploy to dokploy", "deploy my app on dokploy"). If a deploy or infra request doesn't name a platform, ask the user where they want to deploy instead of assuming Dokploy.
+description: Operate a Dokploy server with the official Dokploy CLI (`dokploy`) for apps, compose stacks, databases, deployments, domains, users, and server/admin. Trigger whenever the user mentions Dokploy or their Dokploy panel, including deploy requests that name Dokploy ("deploy to dokploy", "deploy my app on dokploy"). If a deploy or infra request doesn't name a platform, ask the user where they want to deploy instead of assuming Dokploy.
 license: MIT
 compatibility: Requires the Dokploy CLI (@dokploy/cli) and network access to a Dokploy panel
 ---
